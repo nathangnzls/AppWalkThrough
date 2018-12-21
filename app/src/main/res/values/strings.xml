@@ -5,18 +5,20 @@
     <string name="skip">SKIP</string>
     <string name="start">GOT IT</string>
 
-    <string name="slide_1_title">Hello Food!</string>
-    <string name="slide_1_desc">The easiest way to order food from your favourite restaurant!</string>
+    <string name="slide_1_title">Lorem Ipsum!</string>
+    <string name="slide_1_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec pulvinar nisl, porttitor vehicula sapien. Aliquam quis nisl dui. Phasellus vitae felis turpis. Nam et commodo urna. Praesent ullamcorper nunc quis pharetra tristique. Nullam in eros vitae purus gravida ultricies ut ornare tortor. Quisque eget augue at quam dignissim placerat. Cras vel porta nisl. Mauris et orci ante.
 
-    <string name="slide_2_title">Movie Tickets</string>
-    <string name="slide_2_desc">Book movie tickets for your family and friends!</string>
+    </string>
 
-    <string name="slide_3_title">Great Discounts</string>
-    <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+    <string name="slide_2_title">Lorem Ipsum!</string>
+    <string name="slide_2_desc">Sed nec blandit magna, non molestie nisi. Nunc porta est tellus. Donec dignissim massa at auctor posuere. In at erat quis nunc laoreet euismod in non mauris. Proin diam sem, auctor vitae sapien sed, fringilla luctus leo. Aenean iaculis porttitor molestie. Etiam ornare condimentum neque sit amet ullamcorper. Quisque laoreet dolor leo, eu lacinia orci euismod in. Etiam ut commodo ligula, maximus elementum odio.</string>
 
-    <string name="slide_4_title">World Travel</string>
-    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+    <string name="slide_3_title">Lorem Ipsum!</string>
+    <string name="slide_3_desc">Sed nec nulla in dui semper lobortis quis non leo. Quisque congue mattis magna. Nullam dignissim in massa vitae suscipit. Morbi convallis nisi consectetur, aliquam magna ac, mattis mauris. Donec at augue sodales, finibus sem in, scelerisque augue. Phasellus nec sapien a augue sollicitudin feugiat. Nam lobortis at est eu interdum. Praesent nec semper ligula, sed condimentum nulla. Vestibulum in nisl facilisis, placerat augue in, laoreet nisl.</string>
 
-    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
-    <string name="play_again">Play Again</string>
+    <string name="slide_4_title">Lorem Ipsum!</string>
+    <string name="slide_4_desc">Praesent pulvinar a neque sed tempor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras posuere metus nec turpis eleifend, quis posuere sapien pharetra. Phasellus sodales urna interdum elit mollis interdum. In maximus sapien eros, quis vulputate tortor rutrum a. Pellentesque id euismod libero. Nulla interdum, elit sit amet accumsan tempor, tortor mi porttitor neque, a aliquam nulla orci ut tortor.</string>
+
+    <string name="play_again_desc">Proin dignissim ipsum sit amet varius pellentesque. Sed nec consectetur risus, sit amet pellentesque urna. Nam rhoncus enim est. Sed consequat erat risus, quis venenatis dui auctor ut. Phasellus aliquam pulvinar ex, id faucibus metus faucibus et. Suspendisse sed sem justo. Fusce dapibus justo quis accumsan placerat. Morbi quis purus id purus ultrices pellentesque. Quisque tempor purus sed ligula laoreet gravida. Nulla magna odio, varius non tellus vel, efficitur tincidunt nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent ultricies lacus et scelerisque malesuada. Proin et massa nec ipsum consectetur pretium.</string>
+    <string name="play_again">Lorem Ipsum</string>
 </resources>
